@@ -9,4 +9,4 @@ Enter your email ID
 </textarea>
 <br />
 <br />
-<input type="submit">Subscriber</input>
+<input type="submit"/>
